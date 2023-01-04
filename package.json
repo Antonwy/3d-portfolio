@@ -1,17 +1,18 @@
 {
-  "name": "react-three-next",
+  "name": "antons-3d-portfolio",
   "version": "2.0.0",
   "authors": [
-    "Renaud ROHLINGER <https://twitter.com/onirenaud>"
+    "Anton Wyrowski"
   ],
   "license": "MIT",
-  "private": true,
   "engines": {
     "node": ">=14"
   },
   "dependencies": {
     "@react-three/drei": "^9.40.0",
     "@react-three/fiber": "^8.9.0",
+    "framer-motion": "^8.1.5",
+    "framer-motion-3d": "^8.1.5",
     "glsl-random": "^0.0.5",
     "next": "^13.0.1",
     "next-pwa": "^5.6.0",
